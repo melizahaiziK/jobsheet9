@@ -24,3 +24,10 @@ jawaban : sudah saya tambahi dan commit di github
 
 6. Commit dan push kode program ke Github
 jawaban : sudah selesai.
+
+JAWABAN PERTANYAAN PERCOBAAN 2
+1. Jelaskan alur kerja dari method konversiDesimalKeBiner!
+jawaban : Method konversiDesimalKeBiner bekerja dengan cara membagi bilangan desimal dengan 2 secara berulang, lalu menyimpan sisa pembagian ke dalam stack. Setelah itu, isi stack diambil kembali menggunakan operasi pop untuk mendapatkan urutan biner yang benar.
+
+2. Pada method konversiDesimalKeBiner, ubah kondisi perulangan menjadi while (kode != 0), bagaimana hasilnya? Jelaskan alasannya!
+jawaban : Jika kondisi diubah menjadi while (kode != 0), maka program akan mengalami error karena variabel kode tidak dideklarasikan dalam method tersebut. Seharusnya tetap menggunakan variabel nilai.
